@@ -3,6 +3,7 @@
 module.exports = {
   theme: {
     colors: {
+      'transparent': 'transparent',
       'facebook': '#3b5999',
       'messenger': '#0084ff',
       'twitter': '#55acee',

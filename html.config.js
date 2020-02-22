@@ -3,6 +3,7 @@
 module.exports = {
   theme: {
     colors: {
+      'transparent': 'transparent',
       'gainsboro': '#dcdcdc',
       'light-gray': '#d3d3d3',
       'silver': '#c0c0c0',

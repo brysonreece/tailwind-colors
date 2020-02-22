@@ -3,6 +3,7 @@
 module.exports = {
   theme: {
     colors: {
+      'transparent': 'transparent',
       'turquoise': '#1abc9c',
       'green-sea': '#16a085',
       'emerland': '#2ecc71',

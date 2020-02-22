@@ -3,6 +3,7 @@
 module.exports = {
   theme: {
     colors: {
+      'transparent': 'transparent',
       'red': {
         '50': '#ffebee',
         '100': '#ffcdd2',
